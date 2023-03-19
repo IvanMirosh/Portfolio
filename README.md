@@ -20,7 +20,7 @@
 <td><b>pandas</b>, <b>plotly</b>, <b>scipy</b>, <b>pymorphy2</b>, <b>nltk</b></td>
 <tr>
 <td> <b>2</b></td>
-<td><a href= target="_blank"><b>Исследование игровой индустрии</b></a></td>
+<td><a href=https://nbviewer.org/github/IvanMirosh/Portfolio/blob/main/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D0%B8/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D1%80%D1%8B%D0%BD%D0%BA%D0%B0.ipynb target="_blank"><b>Исследование игровой индустрии</b></a></td>
 <td>Интернет-магазин компьютерных игр и игр для консолей. Необходимо выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании. </td>
 <td><b>pandas</b>, <b>numpy</b>, <b>scipy</b>, <b>plotly</b></td>
 <tr>
