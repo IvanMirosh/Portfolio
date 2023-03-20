@@ -36,7 +36,7 @@
 <td><b>pandas</b>, <b>numpy</b>, <b>matplotlib</b>, <b>scipy</b>, <b>plotly</b></td>
 <tr>
 <td> <b>5</b></td>
-<td><a href= target="_blank"><b>Исследование тарифов для телеком-компании</b></a></td>
+<td><a href=https://nbviewer.org/github/IvanMirosh/Portfolio/blob/main/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%82%D0%B0%D1%80%D0%B8%D1%84%D0%BE%D0%B2%20%D0%B4%D0%BB%D1%8F%20%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%82%D0%B0%D1%80%D0%B8%D1%84%D0%BE%D0%B2%20%D0%B4%D0%BB%D1%8F%20%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8.ipynb target="_blank"><b>Исследование тарифов для телеком-компании</b></a></td>
 <td>Компания предлагает два тарифных плана. Чтобы скорректировать рекламный бюджет, коммерческий департамент хочет понять, какой тариф приносит больше денег. Нам необходимо проанализировать поведение клиентов и сделать вывод — какой тариф лучше.</td>
 <td><b>pandas</b>, <b>numpy</b>, <b>matplotlib</b>, <b>scipy</b>, <b>plotly</b></td>
 <tr>
