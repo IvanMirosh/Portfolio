@@ -26,7 +26,7 @@
 <td><b>pandas</b>, <b>numpy</b>, <b>scipy</b>, <b>plotly</b></td>
 <tr>
 <td> <b>3</b></td>
-<td><a href= target="_blank"><b>Прогнозирование оттока посетителей для сети фитнесс-центров</b></a></td>
+<td><a href=https://nbviewer.org/github/IvanMirosh/Portfolio/blob/main/%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D1%82%D1%82%D0%BE%D0%BA%D0%B0%20%D0%BF%D0%BE%D1%81%D0%B5%D1%82%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B9%20%D0%B4%D0%BB%D1%8F%20%D1%81%D0%B5%D1%82%D0%B8%20%D1%84%D0%B8%D1%82%D0%BD%D0%B5%D1%81%D1%81-%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%BE%D0%B2/%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D1%82%D1%82%D0%BE%D0%BA%D0%B0%20%D0%BF%D0%BE%D1%81%D0%B5%D1%82%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B9%20%D1%81%D0%B5%D1%82%D0%B8%20%D1%84%D0%B8%D1%82%D0%BD%D0%B5%D1%81%D1%81-%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%BE%D0%B2.ipynb target="_blank"><b>Прогнозирование оттока посетителей для сети фитнесс-центров</b></a></td>
 <td>Сеть фитнес-центров разрабатывает стратегию взаимодействия с клиентами. Распространённая проблема фитнес-клубов и других сервисов — отток клиентов.
 Наша задача — провести анализ, на основании его результатов сформировать и предложить меры по удержанию клиентов.</td>
 <td><b>pandas</b>, <b>numpy</b>, <b>matplotlib</b>, <b>sklearn</b>, <b>scipy</b>, <b>plotly</b></td>
